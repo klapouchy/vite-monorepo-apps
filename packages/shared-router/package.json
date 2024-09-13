@@ -1,0 +1,13 @@
+{
+  "name": "shared-router",
+  "version": "1.0.0",
+  "main": "./src/index.jsx",
+  "module": "./src/index.jsx",
+  "exports": {
+    "import": "./src/index.jsx",
+    "require": "./src/index.jsx"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.14.1"
+  }
+}

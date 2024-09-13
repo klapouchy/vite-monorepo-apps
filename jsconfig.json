@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "shared-router": ["packages/shared-router/src"],
+      "app1": ["packages/app1/src"],
+      "app2": ["packages/app2/src"]
+    }
+  }
+}
